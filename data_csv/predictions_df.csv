@@ -1,0 +1,69 @@
+match_id,home_team,away_team,Actual,Predicted
+303666,Granada,Barcelona,home_team_winner,away_team_winner
+303430,Barcelona,Villarreal,home_team_winner,home_team_winner
+303473,Barcelona,Sevilla,home_team_winner,home_team_winner
+303700,Eibar,Barcelona,away_team_winner,away_team_winner
+303600,Barcelona,Real Valladolid,home_team_winner,home_team_winner
+303504,Levante UD,Barcelona,home_team_winner,away_team_winner
+303487,Barcelona,Celta Vigo,home_team_winner,home_team_winner
+303715,Leganés,Barcelona,away_team_winner,away_team_winner
+303524,Atlético Madrid,Barcelona,away_team_winner,away_team_winner
+303451,Barcelona,Mallorca,home_team_winner,home_team_winner
+303664,Real Sociedad,Barcelona,tie,away_team_winner
+303596,Barcelona,Real Madrid,tie,home_team_winner
+303517,Barcelona,Deportivo Alavés,home_team_winner,home_team_winner
+303652,Espanyol,Barcelona,tie,away_team_winner
+303610,Barcelona,Granada,home_team_winner,home_team_winner
+303400,Valencia,Barcelona,home_team_winner,away_team_winner
+303682,Barcelona,Levante UD,home_team_winner,home_team_winner
+303707,Real Betis,Barcelona,away_team_winner,away_team_winner
+303377,Barcelona,Getafe,home_team_winner,home_team_winner
+303731,Barcelona,Eibar,home_team_winner,home_team_winner
+303470,Real Madrid,Barcelona,home_team_winner,away_team_winner
+303479,Barcelona,Real Sociedad,home_team_winner,home_team_winner
+303548,Mallorca,Barcelona,away_team_winner,away_team_winner
+303532,Barcelona,Leganés,home_team_winner,home_team_winner
+303674,Sevilla,Barcelona,tie,away_team_winner
+303493,Barcelona,Athletic Club,home_team_winner,home_team_winner
+303516,Celta Vigo,Barcelona,tie,tie
+303696,Barcelona,Atlético Madrid,tie,home_team_winner
+303725,Villarreal,Barcelona,away_team_winner,away_team_winner
+303615,Barcelona,Espanyol,home_team_winner,home_team_winner
+303680,Real Valladolid,Barcelona,away_team_winner,away_team_winner
+303634,Barcelona,Osasuna,away_team_winner,home_team_winner
+303421,Deportivo Alavés,Barcelona,away_team_winner,away_team_winner
+3773593,Barcelona,Villarreal,home_team_winner,home_team_winner
+3773466,Celta Vigo,Barcelona,away_team_winner,away_team_winner
+3773672,Barcelona,Sevilla,tie,home_team_winner
+3773587,Getafe,Barcelona,home_team_winner,home_team_winner
+3773585,Barcelona,Real Madrid,away_team_winner,away_team_winner
+3773386,Deportivo Alavés,Barcelona,tie,away_team_winner
+3773477,Barcelona,Real Betis,home_team_winner,home_team_winner
+3773656,Atlético Madrid,Barcelona,home_team_winner,away_team_winner
+3773547,Barcelona,Osasuna,home_team_winner,home_team_winner
+3773428,Cádiz,Barcelona,home_team_winner,away_team_winner
+3773660,Barcelona,Levante UD,home_team_winner,home_team_winner
+3773523,Barcelona,Real Sociedad,home_team_winner,home_team_winner
+3773377,Barcelona,Valencia,tie,home_team_winner
+3773571,Real Valladolid,Barcelona,away_team_winner,away_team_winner
+3773552,Huesca,Barcelona,away_team_winner,away_team_winner
+3764661,Athletic Club,Barcelona,away_team_winner,away_team_winner
+3773565,Granada,Barcelona,away_team_winner,away_team_winner
+3773403,Barcelona,Athletic Club,home_team_winner,home_team_winner
+3773631,Real Betis,Barcelona,away_team_winner,away_team_winner
+3773526,Barcelona,Deportivo Alavés,home_team_winner,home_team_winner
+3773415,Barcelona,Cádiz,tie,home_team_winner
+3764440,Barcelona,Elche,home_team_winner,home_team_winner
+3773625,Sevilla,Barcelona,away_team_winner,away_team_winner
+3773665,Osasuna,Barcelona,away_team_winner,away_team_winner
+3773369,Barcelona,Huesca,home_team_winner,home_team_winner
+3773597,Real Sociedad,Barcelona,away_team_winner,away_team_winner
+3773474,Barcelona,Real Valladolid,home_team_winner,home_team_winner
+3773497,Real Madrid,Barcelona,home_team_winner,away_team_winner
+3773661,Barcelona,Getafe,home_team_winner,home_team_winner
+3773689,Villarreal,Barcelona,away_team_winner,away_team_winner
+3773586,Barcelona,Granada,away_team_winner,home_team_winner
+3773695,Valencia,Barcelona,away_team_winner,away_team_winner
+3773372,Barcelona,Atlético Madrid,tie,home_team_winner
+3773387,Levante UD,Barcelona,tie,away_team_winner
+3773457,Barcelona,Celta Vigo,away_team_winner,home_team_winner

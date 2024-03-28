@@ -1,0 +1,869 @@
+match_id,home_team,away_team,pair_win_home,pair_win_away,pair_tie
+3888713,Real Madrid,Barcelona,0.33,0.33,0.33
+68353,Espanyol,Barcelona,0.33,0.33,0.33
+68313,Barcelona,Osasuna,0.33,0.33,0.33
+68314,Barcelona,Málaga,0.33,0.33,0.33
+69153,Albacete,Barcelona,0.33,0.33,0.33
+68315,Barcelona,Levante UD,0.33,0.33,0.33
+68352,Barcelona,Getafe,0.33,0.33,0.33
+68316,Barcelona,Albacete,1.0,0.0,0.0
+68317,Barcelona,Real Zaragoza,0.33,0.33,0.33
+68318,Barcelona,Osasuna,1.0,0.0,0.0
+69164,Barcelona,Málaga,1.0,0.0,0.0
+68339,Getafe,Barcelona,0.0,1.0,0.0
+68319,Real Madrid,Barcelona,0.0,1.0,0.0
+68354,Barcelona,Racing Santander,0.33,0.33,0.33
+68320,Villarreal,Barcelona,0.33,0.33,0.33
+68321,Barcelona,Sevilla,0.33,0.33,0.33
+68322,Cádiz,Barcelona,0.33,0.33,0.33
+68323,Barcelona,Celta Vigo,0.33,0.33,0.33
+68348,Espanyol,Barcelona,0.0,1.0,0.0
+68342,Barcelona,Athletic Club,0.33,0.33,0.33
+68324,Barcelona,Deportivo Alavés,0.33,0.33,0.33
+68325,Mallorca,Barcelona,0.33,0.33,0.33
+68350,Barcelona,Atlético Madrid,0.33,0.33,0.33
+69172,Barcelona,Real Betis,0.33,0.33,0.33
+68351,Real Zaragoza,Barcelona,0.0,0.0,1.0
+68326,Celta Vigo,Barcelona,0.0,1.0,0.0
+68327,Barcelona,Osasuna,1.0,0.0,0.0
+68340,Racing Santander,Barcelona,0.0,1.0,0.0
+68328,Barcelona,Valencia,0.33,0.33,0.33
+68347,Athletic Club,Barcelona,0.0,1.0,0.0
+68329,Barcelona,Sevilla,1.0,0.0,0.0
+68330,Real Madrid,Barcelona,0.0,1.0,0.0
+69174,RC Deportivo La Coruña,Barcelona,0.33,0.33,0.33
+68331,Barcelona,Real Zaragoza,0.5,0.0,0.5
+69154,Barcelona,Racing Santander,1.0,0.0,0.0
+68332,Valencia,Barcelona,0.0,0.0,1.0
+68333,Barcelona,Athletic Club,1.0,0.0,0.0
+68334,Sevilla,Barcelona,0.0,1.0,0.0
+68335,Barcelona,Real Madrid,0.6666666666666666,0.3333333333333333,0.0
+68341,Recreativo Huelva,Barcelona,0.33,0.33,0.33
+69175,Barcelona,RC Deportivo La Coruña,0.0,0.0,1.0
+69179,Real Zaragoza,Barcelona,0.0,0.6666666666666666,0.3333333333333333
+69159,Barcelona,Mallorca,1.0,0.0,0.0
+69155,Villarreal,Barcelona,0.0,1.0,0.0
+69156,Barcelona,Levante UD,1.0,0.0,0.0
+69160,Real Sociedad,Barcelona,0.33,0.33,0.33
+69162,Barcelona,Real Betis,1.0,0.0,0.0
+69176,Atlético Madrid,Barcelona,1.0,0.0,0.0
+69157,Barcelona,Getafe,1.0,0.0,0.0
+69165,Barcelona,Espanyol,1.0,0.0,0.0
+68336,Gimnàstic Tarragona,Barcelona,0.33,0.33,0.33
+69180,Racing Santander,Barcelona,0.0,1.0,0.0
+69169,Barcelona,Athletic Club,1.0,0.0,0.0
+69148,Barcelona,Sevilla,0.6666666666666666,0.3333333333333333,0.0
+69143,Barcelona,Real Zaragoza,0.5,0.25,0.25
+69151,Levante UD,Barcelona,0.0,1.0,0.0
+69144,Barcelona,Atlético Madrid,0.5,0.5,0.0
+68364,Villarreal,Barcelona,0.5,0.5,0.0
+69158,Barcelona,Almería,0.33,0.33,0.33
+68363,Real Valladolid,Barcelona,0.33,0.33,0.33
+69166,Barcelona,Real Betis,0.5,0.0,0.5
+69178,Getafe,Barcelona,0.0,1.0,0.0
+69184,Barcelona,Recreativo Huelva,1.0,0.0,0.0
+68356,Espanyol,Barcelona,0.0,0.6666666666666666,0.3333333333333333
+69170,Barcelona,RC Deportivo La Coruña,0.5,0.0,0.5
+69145,Valencia,Barcelona,0.5,0.0,0.5
+69173,Barcelona,Racing Santander,0.75,0.0,0.25
+69181,Athletic Club,Barcelona,0.0,1.0,0.0
+69187,Barcelona,Osasuna,1.0,0.0,0.0
+69146,Sevilla,Barcelona,0.25,0.75,0.0
+69182,Real Zaragoza,Barcelona,0.2,0.6,0.2
+68360,Barcelona,Levante UD,1.0,0.0,0.0
+68365,Atlético Madrid,Barcelona,0.3333333333333333,0.6666666666666666,0.0
+68358,Recreativo Huelva,Barcelona,0.0,1.0,0.0
+68359,Barcelona,Espanyol,0.5,0.0,0.5
+69141,Barcelona,Valencia,0.3333333333333333,0.3333333333333333,0.3333333333333333
+68361,Real Madrid,Barcelona,0.25,0.5,0.25
+68366,Barcelona,Mallorca,1.0,0.0,0.0
+69186,Real Murcia CF,Barcelona,0.33,0.33,0.33
+69147,CD Numancia de Soria,Barcelona,0.33,0.33,0.33
+69215,Barcelona,Racing Santander,0.8,0.0,0.2
+69138,Sporting Gijón,Barcelona,0.33,0.33,0.33
+69207,Barcelona,Real Betis,0.6666666666666666,0.0,0.3333333333333333
+69211,Espanyol,Barcelona,0.0,0.4,0.6
+69212,Barcelona,Atlético Madrid,0.5,0.5,0.0
+69232,Barcelona,Almería,1.0,0.0,0.0
+69235,Málaga,Barcelona,0.0,1.0,0.0
+69279,Barcelona,Real Valladolid,0.0,0.0,1.0
+69285,Recreativo Huelva,Barcelona,0.0,0.6666666666666666,0.3333333333333333
+69171,Sevilla,Barcelona,0.2,0.6,0.2
+69149,Barcelona,Valencia,0.5,0.25,0.25
+69225,Barcelona,Real Madrid,0.4,0.4,0.2
+69228,Villarreal,Barcelona,0.6666666666666666,0.3333333333333333,0.0
+69230,Osasuna,Barcelona,0.0,1.0,0.0
+69183,Barcelona,RC Deportivo La Coruña,0.6666666666666666,0.0,0.3333333333333333
+69189,Barcelona,CD Numancia de Soria,0.0,1.0,0.0
+69209,Racing Santander,Barcelona,0.0,0.6666666666666666,0.3333333333333333
+69231,Barcelona,Sporting Gijón,1.0,0.0,0.0
+69195,Real Betis,Barcelona,0.0,0.75,0.25
+69139,Barcelona,Espanyol,0.5,0.0,0.5
+69185,Atlético Madrid,Barcelona,0.4,0.6,0.0
+69216,Barcelona,Athletic Club,0.8,0.0,0.2
+69177,Almería,Barcelona,0.0,1.0,0.0
+69142,Barcelona,Málaga,1.0,0.0,0.0
+69273,Real Valladolid,Barcelona,0.0,0.5,0.5
+69222,Barcelona,Recreativo Huelva,0.75,0.0,0.25
+69223,Getafe,Barcelona,0.25,0.75,0.0
+69251,Valencia,Barcelona,0.2,0.6,0.2
+69249,Real Madrid,Barcelona,0.3333333333333333,0.5,0.16666666666666666
+69217,Barcelona,Villarreal,0.5,0.5,0.0
+69229,Getafe,Barcelona,0.2,0.8,0.0
+69292,Barcelona,Atlético Madrid,0.5,0.5,0.0
+69254,Racing Santander,Barcelona,0.0,0.7142857142857143,0.2857142857142857
+69255,Málaga,Barcelona,0.0,1.0,0.0
+69256,Barcelona,Almería,1.0,0.0,0.0
+69252,Valencia,Barcelona,0.16666666666666666,0.5,0.3333333333333333
+69253,Barcelona,Real Zaragoza,0.6666666666666666,0.16666666666666666,0.16666666666666666
+69277,Osasuna,Barcelona,0.0,1.0,0.0
+69250,Barcelona,Mallorca,0.6666666666666666,0.3333333333333333,0.0
+69288,Athletic Club,Barcelona,0.0,0.8333333333333334,0.16666666666666666
+69262,Barcelona,Real Madrid,0.5714285714285714,0.2857142857142857,0.14285714285714285
+69267,Xerez,Barcelona,0.33,0.33,0.33
+69218,RC Deportivo La Coruña,Barcelona,0.0,0.75,0.25
+69219,Tenerife,Barcelona,0.33,0.33,0.33
+69243,Barcelona,Sevilla,0.6666666666666666,0.16666666666666666,0.16666666666666666
+69210,Real Valladolid,Barcelona,0.0,0.6666666666666666,0.3333333333333333
+69220,Sporting Gijón,Barcelona,0.0,1.0,0.0
+69240,Barcelona,Getafe,0.8333333333333334,0.16666666666666666,0.0
+69237,Atlético Madrid,Barcelona,0.42857142857142855,0.5714285714285714,0.0
+69233,Barcelona,Racing Santander,0.75,0.0,0.25
+69238,Barcelona,Málaga,1.0,0.0,0.0
+69226,Almería,Barcelona,0.0,1.0,0.0
+69224,Barcelona,Valencia,0.42857142857142855,0.14285714285714285,0.42857142857142855
+69227,Real Zaragoza,Barcelona,0.14285714285714285,0.7142857142857143,0.14285714285714285
+69257,Barcelona,Osasuna,0.8333333333333334,0.0,0.16666666666666666
+69298,Mallorca,Barcelona,0.25,0.75,0.0
+69247,Barcelona,Athletic Club,0.7142857142857143,0.0,0.2857142857142857
+69259,Real Madrid,Barcelona,0.25,0.625,0.125
+69221,Barcelona,RC Deportivo La Coruña,0.8,0.0,0.2
+69213,Espanyol,Barcelona,0.14285714285714285,0.42857142857142855,0.42857142857142855
+69214,Barcelona,Xerez,1.0,0.0,0.0
+69244,Villarreal,Barcelona,0.4,0.4,0.2
+69241,Barcelona,Tenerife,1.0,0.0,0.0
+69239,Sevilla,Barcelona,0.14285714285714285,0.7142857142857143,0.14285714285714285
+69242,Barcelona,Real Valladolid,0.75,0.0,0.25
+69286,Racing Santander,Barcelona,0.0,0.7777777777777778,0.2222222222222222
+69287,Barcelona,Hércules,0.33,0.33,0.33
+69269,Atlético Madrid,Barcelona,0.5,0.5,0.0
+69236,Barcelona,Mallorca,0.8,0.2,0.0
+69260,Barcelona,Valencia,0.5,0.125,0.375
+69263,Real Zaragoza,Barcelona,0.125,0.75,0.125
+69289,Barcelona,Sevilla,0.75,0.125,0.125
+69270,Getafe,Barcelona,0.14285714285714285,0.8571428571428571,0.0
+69308,Barcelona,Villarreal,0.5,0.3333333333333333,0.16666666666666666
+69306,Almería,Barcelona,0.0,0.8,0.2
+69299,Barcelona,Real Madrid,0.6666666666666666,0.2222222222222222,0.1111111111111111
+69307,Osasuna,Barcelona,0.0,0.8571428571428571,0.14285714285714285
+69302,Barcelona,Real Sociedad,1.0,0.0,0.0
+69275,Espanyol,Barcelona,0.125,0.375,0.5
+69280,RC Deportivo La Coruña,Barcelona,0.0,0.8333333333333334,0.16666666666666666
+69278,Barcelona,Málaga,1.0,0.0,0.0
+69295,Barcelona,Racing Santander,0.8,0.0,0.2
+69296,Hércules,Barcelona,1.0,0.0,0.0
+69276,Barcelona,Atlético Madrid,0.5555555555555556,0.4444444444444444,0.0
+69248,Sporting Gijón,Barcelona,0.0,1.0,0.0
+69282,Barcelona,Athletic Club,0.75,0.0,0.25
+69283,Mallorca,Barcelona,0.16666666666666666,0.6666666666666666,0.16666666666666666
+69274,Valencia,Barcelona,0.1111111111111111,0.5555555555555556,0.3333333333333333
+69300,Barcelona,Real Zaragoza,0.7777777777777778,0.1111111111111111,0.1111111111111111
+69291,Sevilla,Barcelona,0.1111111111111111,0.7777777777777778,0.1111111111111111
+69303,Barcelona,Getafe,0.875,0.125,0.0
+69304,Villarreal,Barcelona,0.2857142857142857,0.5714285714285714,0.14285714285714285
+69305,Barcelona,Almería,0.8333333333333334,0.0,0.16666666666666666
+69245,Real Madrid,Barcelona,0.2,0.7,0.1
+69271,Barcelona,Osasuna,0.875,0.0,0.125
+69246,Real Sociedad,Barcelona,0.0,1.0,0.0
+69234,Barcelona,Espanyol,0.4444444444444444,0.1111111111111111,0.4444444444444444
+69272,Levante UD,Barcelona,0.0,1.0,0.0
+69268,Barcelona,Villarreal,0.625,0.25,0.125
+69264,Real Sociedad,Barcelona,0.3333333333333333,0.6666666666666666,0.0
+70220,Barcelona,Osasuna,0.8888888888888888,0.0,0.1111111111111111
+70223,Valencia,Barcelona,0.1,0.6,0.3
+69297,Barcelona,Atlético Madrid,0.6,0.4,0.0
+69265,Sporting Gijón,Barcelona,0.0,0.75,0.25
+69293,Barcelona,Racing Santander,0.8181818181818182,0.0,0.18181818181818182
+69329,Barcelona,Sevilla,0.7,0.1,0.2
+69318,Granada,Barcelona,0.33,0.33,0.33
+69314,Barcelona,Mallorca,0.7142857142857143,0.14285714285714285,0.14285714285714285
+69330,Athletic Club,Barcelona,0.0,0.7777777777777778,0.2222222222222222
+69331,Barcelona,Real Zaragoza,0.8,0.1,0.1
+69315,Getafe,Barcelona,0.1111111111111111,0.8888888888888888,0.0
+69332,Barcelona,Rayo Vallecano,0.33,0.33,0.33
+69333,Barcelona,Levante UD,0.8,0.0,0.2
+69334,Real Madrid,Barcelona,0.18181818181818182,0.6363636363636364,0.18181818181818182
+69312,Espanyol,Barcelona,0.1,0.5,0.4
+69327,Barcelona,Real Betis,0.6,0.0,0.4
+69335,Málaga,Barcelona,0.0,1.0,0.0
+69338,Villarreal,Barcelona,0.2222222222222222,0.6666666666666666,0.1111111111111111
+69316,Barcelona,Real Sociedad,0.5,0.25,0.25
+69336,Osasuna,Barcelona,0.0,0.9,0.1
+69328,Barcelona,Valencia,0.5454545454545454,0.09090909090909091,0.36363636363636365
+69337,Atlético Madrid,Barcelona,0.36363636363636365,0.6363636363636364,0.0
+69322,Racing Santander,Barcelona,0.0,0.8333333333333334,0.16666666666666666
+69326,Sevilla,Barcelona,0.09090909090909091,0.6363636363636364,0.2727272727272727
+70225,Barcelona,Granada,1.0,0.0,0.0
+69325,Mallorca,Barcelona,0.125,0.75,0.125
+69323,Barcelona,Athletic Club,0.7,0.0,0.3
+70219,Real Zaragoza,Barcelona,0.09090909090909091,0.8181818181818182,0.09090909090909091
+69343,Barcelona,Getafe,0.8,0.2,0.0
+70221,Levante UD,Barcelona,0.0,0.8333333333333334,0.16666666666666666
+69324,Barcelona,Real Madrid,0.6666666666666666,0.16666666666666666,0.16666666666666666
+70224,Rayo Vallecano,Barcelona,0.0,1.0,0.0
+69340,Barcelona,Málaga,1.0,0.0,0.0
+69320,Barcelona,Espanyol,0.45454545454545453,0.09090909090909091,0.45454545454545453
+69319,Real Betis,Barcelona,0.0,0.6666666666666666,0.3333333333333333
+70259,Barcelona,Real Sociedad,0.6,0.2,0.2
+70262,Osasuna,Barcelona,0.09090909090909091,0.8181818181818182,0.09090909090909091
+70286,Barcelona,Valencia,0.5833333333333334,0.08333333333333333,0.3333333333333333
+70292,Getafe,Barcelona,0.18181818181818182,0.8181818181818182,0.0
+70270,Barcelona,Granada,1.0,0.0,0.0
+70275,Sevilla,Barcelona,0.08333333333333333,0.6666666666666666,0.25
+70300,Barcelona,Real Madrid,0.6153846153846154,0.23076923076923078,0.15384615384615385
+70304,RC Deportivo La Coruña,Barcelona,0.0,0.8571428571428571,0.14285714285714285
+70276,Rayo Vallecano,Barcelona,0.0,1.0,0.0
+70308,Barcelona,Celta Vigo,1.0,0.0,0.0
+266724,Mallorca,Barcelona,0.1111111111111111,0.7777777777777778,0.1111111111111111
+70309,Barcelona,Real Zaragoza,0.8333333333333334,0.08333333333333333,0.08333333333333333
+70280,Levante UD,Barcelona,0.0,0.8571428571428571,0.14285714285714285
+70263,Barcelona,Athletic Club,0.7272727272727273,0.0,0.2727272727272727
+70295,Real Betis,Barcelona,0.0,0.5714285714285714,0.42857142857142855
+70296,Barcelona,Atlético Madrid,0.6666666666666666,0.3333333333333333,0.0
+266015,Real Valladolid,Barcelona,0.0,0.8,0.2
+266433,Barcelona,Espanyol,0.5,0.08333333333333333,0.4166666666666667
+266827,Málaga,Barcelona,0.0,1.0,0.0
+70287,Real Sociedad,Barcelona,0.16666666666666666,0.6666666666666666,0.16666666666666666
+70260,Barcelona,Osasuna,0.8333333333333334,0.08333333333333333,0.08333333333333333
+70282,Valencia,Barcelona,0.07692307692307693,0.6153846153846154,0.3076923076923077
+70297,Barcelona,Getafe,0.8333333333333334,0.16666666666666666,0.0
+70294,Granada,Barcelona,0.0,1.0,0.0
+70271,Barcelona,Sevilla,0.6923076923076923,0.07692307692307693,0.23076923076923078
+70272,Real Madrid,Barcelona,0.21428571428571427,0.5714285714285714,0.21428571428571427
+70305,Barcelona,RC Deportivo La Coruña,0.875,0.0,0.125
+70307,Barcelona,Rayo Vallecano,1.0,0.0,0.0
+70256,Celta Vigo,Barcelona,0.0,1.0,0.0
+267502,Athletic Club,Barcelona,0.0,0.75,0.25
+70281,Barcelona,Real Betis,0.625,0.0,0.375
+70284,Atlético Madrid,Barcelona,0.3076923076923077,0.6923076923076923,0.0
+70277,Barcelona,Levante UD,0.875,0.0,0.125
+70298,Valencia,Barcelona,0.07142857142857142,0.5714285714285714,0.35714285714285715
+70301,Barcelona,Sevilla,0.7142857142857143,0.07142857142857142,0.21428571428571427
+70302,Rayo Vallecano,Barcelona,0.0,1.0,0.0
+267520,Barcelona,Real Sociedad,0.5714285714285714,0.2857142857142857,0.14285714285714285
+266420,Almería,Barcelona,0.0,0.8571428571428571,0.14285714285714285
+266462,Osasuna,Barcelona,0.07692307692307693,0.8461538461538461,0.07692307692307693
+70293,Barcelona,Real Madrid,0.5333333333333333,0.26666666666666666,0.2
+267192,Celta Vigo,Barcelona,0.0,0.75,0.25
+70283,Barcelona,Espanyol,0.5384615384615384,0.07692307692307693,0.38461538461538464
+266883,Real Betis,Barcelona,0.0,0.6666666666666666,0.3333333333333333
+265830,Atlético Madrid,Barcelona,0.2857142857142857,0.7142857142857143,0.0
+70288,Levante UD,Barcelona,0.0,0.8888888888888888,0.1111111111111111
+70291,Barcelona,Málaga,1.0,0.0,0.0
+266613,Barcelona,Valencia,0.6,0.06666666666666667,0.3333333333333333
+267675,Sevilla,Barcelona,0.06666666666666667,0.7333333333333333,0.2
+265918,Barcelona,Rayo Vallecano,1.0,0.0,0.0
+265837,Real Sociedad,Barcelona,0.25,0.625,0.125
+266066,Barcelona,Almería,0.875,0.0,0.125
+266603,Real Valladolid,Barcelona,0.0,0.8333333333333334,0.16666666666666666
+266074,Barcelona,Osasuna,0.7857142857142857,0.07142857142857142,0.14285714285714285
+265857,Real Madrid,Barcelona,0.25,0.5625,0.1875
+266274,Barcelona,Celta Vigo,0.8,0.0,0.2
+70306,Espanyol,Barcelona,0.07142857142857142,0.5714285714285714,0.35714285714285715
+267368,Barcelona,Real Betis,0.7,0.0,0.3
+267138,Granada,Barcelona,0.0,1.0,0.0
+267567,Barcelona,Athletic Club,0.6923076923076923,0.0,0.3076923076923077
+70289,Villarreal,Barcelona,0.2,0.6,0.2
+266491,Barcelona,Getafe,0.8461538461538461,0.15384615384615385,0.0
+266201,Elche,Barcelona,0.33,0.33,0.33
+266256,Barcelona,Atlético Madrid,0.6666666666666666,0.26666666666666666,0.06666666666666667
+266921,Barcelona,Elche,0.0,0.0,1.0
+266406,Villarreal,Barcelona,0.18181818181818182,0.6363636363636364,0.18181818181818182
+70273,Barcelona,Athletic Club,0.7142857142857143,0.0,0.2857142857142857
+266770,Levante UD,Barcelona,0.0,0.8,0.2
+266838,Málaga,Barcelona,0.0,1.0,0.0
+266117,Barcelona,Granada,0.8,0.2,0.0
+267561,Rayo Vallecano,Barcelona,0.0,1.0,0.0
+265896,Barcelona,Eibar,0.33,0.33,0.33
+267085,Real Madrid,Barcelona,0.23529411764705882,0.5882352941176471,0.17647058823529413
+267301,Barcelona,Celta Vigo,0.8333333333333334,0.0,0.16666666666666666
+267499,Almería,Barcelona,0.0,0.8888888888888888,0.1111111111111111
+265835,Barcelona,Sevilla,0.75,0.0625,0.1875
+266560,Valencia,Barcelona,0.125,0.5625,0.3125
+266320,Barcelona,Espanyol,0.6,0.06666666666666667,0.3333333333333333
+70264,Getafe,Barcelona,0.14285714285714285,0.7857142857142857,0.07142857142857142
+266846,Barcelona,Córdoba CF,0.33,0.33,0.33
+266240,Real Sociedad,Barcelona,0.3333333333333333,0.5555555555555556,0.1111111111111111
+70303,Barcelona,Atlético Madrid,0.625,0.25,0.125
+266230,RC Deportivo La Coruña,Barcelona,0.0,0.8888888888888888,0.1111111111111111
+266794,Elche,Barcelona,0.0,0.5,0.5
+267597,Barcelona,Villarreal,0.6666666666666666,0.16666666666666666,0.16666666666666666
+266871,Athletic Club,Barcelona,0.0,0.7333333333333333,0.26666666666666666
+266741,Barcelona,Levante UD,0.8181818181818182,0.0,0.18181818181818182
+266148,Barcelona,Málaga,0.9166666666666666,0.0,0.08333333333333333
+267343,Granada,Barcelona,0.16666666666666666,0.8333333333333334,0.0
+266916,Barcelona,Rayo Vallecano,1.0,0.0,0.0
+266967,Eibar,Barcelona,0.0,1.0,0.0
+267183,Barcelona,Real Madrid,0.5555555555555556,0.2777777777777778,0.16666666666666666
+266929,Celta Vigo,Barcelona,0.14285714285714285,0.7142857142857143,0.14285714285714285
+267400,Barcelona,Almería,0.9,0.0,0.1
+266142,Sevilla,Barcelona,0.058823529411764705,0.7647058823529411,0.17647058823529413
+266525,Barcelona,Valencia,0.5882352941176471,0.11764705882352941,0.29411764705882354
+266531,Espanyol,Barcelona,0.0625,0.625,0.3125
+265963,Barcelona,Getafe,0.7333333333333333,0.13333333333333333,0.13333333333333333
+265866,Córdoba CF,Barcelona,0.0,1.0,0.0
+266045,Barcelona,Real Sociedad,0.5,0.4,0.1
+266631,Atlético Madrid,Barcelona,0.23529411764705882,0.6470588235294118,0.11764705882352941
+267197,Barcelona,RC Deportivo La Coruña,0.9,0.0,0.1
+3825562,Málaga,Sevilla,0.33,0.33,0.33
+3825564,RC Deportivo La Coruña,Real Sociedad,0.33,0.33,0.33
+3825565,Espanyol,Getafe,0.33,0.33,0.33
+3825566,Rayo Vallecano,Valencia,0.33,0.33,0.33
+3825563,Atlético Madrid,Las Palmas,0.33,0.33,0.33
+3825567,Sporting Gijón,Real Madrid,0.33,0.33,0.33
+3825569,Levante UD,Celta Vigo,0.33,0.33,0.33
+3825568,Real Betis,Villarreal,0.33,0.33,0.33
+266236,Athletic Club,Barcelona,0.0,0.75,0.25
+3825570,Granada,Eibar,0.33,0.33,0.33
+3825571,Villarreal,Espanyol,0.33,0.33,0.33
+267422,Barcelona,Málaga,0.8461538461538461,0.07692307692307693,0.07692307692307693
+3825573,Real Sociedad,Sporting Gijón,0.33,0.33,0.33
+3825574,Celta Vigo,Rayo Vallecano,0.33,0.33,0.33
+3825572,Real Madrid,Real Betis,0.33,0.33,0.33
+3825575,Las Palmas,Levante UD,0.33,0.33,0.33
+3825577,Getafe,Granada,0.33,0.33,0.33
+3825578,Eibar,Athletic Club,0.33,0.33,0.33
+3825579,Sevilla,Atlético Madrid,0.33,0.33,0.33
+3825576,Valencia,RC Deportivo La Coruña,0.33,0.33,0.33
+3825580,Levante UD,Sevilla,0.33,0.33,0.33
+266166,Atlético Madrid,Barcelona,0.2222222222222222,0.6666666666666666,0.1111111111111111
+3825582,Real Betis,Real Sociedad,0.33,0.33,0.33
+3825583,Sporting Gijón,Valencia,0.33,0.33,0.33
+3825581,Espanyol,Real Madrid,0.33,0.33,0.33
+3825587,Athletic Club,Getafe,0.33,0.33,0.33
+3825584,Granada,Villarreal,0.33,0.33,0.33
+3825585,Celta Vigo,Las Palmas,0.33,0.33,0.33
+3825586,Málaga,Eibar,0.33,0.33,0.33
+3825588,Rayo Vallecano,RC Deportivo La Coruña,0.33,0.33,0.33
+3825589,Getafe,Málaga,0.33,0.33,0.33
+3825591,Valencia,Real Betis,0.33,0.33,0.33
+3825592,Real Sociedad,Espanyol,0.33,0.33,0.33
+3825590,Real Madrid,Granada,0.33,0.33,0.33
+3825593,Eibar,Atlético Madrid,0.33,0.33,0.33
+3825594,Sevilla,Celta Vigo,0.33,0.33,0.33
+3825596,RC Deportivo La Coruña,Sporting Gijón,0.33,0.33,0.33
+3825597,Las Palmas,Rayo Vallecano,0.33,0.33,0.33
+3825595,Villarreal,Athletic Club,0.33,0.33,0.33
+266490,Barcelona,Levante UD,0.8333333333333334,0.0,0.16666666666666666
+3825599,Espanyol,Valencia,0.33,0.33,0.33
+3825892,Granada,Real Sociedad,0.33,0.33,0.33
+3825598,Atlético Madrid,Getafe,0.33,0.33,0.33
+3825600,Málaga,Villarreal,0.33,0.33,0.33
+3825602,Athletic Club,Real Madrid,0.33,0.33,0.33
+266467,Celta Vigo,Barcelona,0.125,0.75,0.125
+3825895,Las Palmas,Sevilla,0.33,0.33,0.33
+3825848,Levante UD,Eibar,0.33,0.33,0.33
+3825601,Rayo Vallecano,Sporting Gijón,0.33,0.33,0.33
+3825603,Real Betis,RC Deportivo La Coruña,0.33,0.33,0.33
+3825604,Valencia,Granada,0.33,0.33,0.33
+267611,Barcelona,Las Palmas,0.33,0.33,0.33
+3825606,Real Madrid,Málaga,0.33,0.33,0.33
+3825605,Sevilla,Rayo Vallecano,0.33,0.33,0.33
+3825607,Villarreal,Atlético Madrid,0.33,0.33,0.33
+3825608,Eibar,Celta Vigo,0.33,0.33,0.33
+3825611,RC Deportivo La Coruña,Espanyol,0.33,0.33,0.33
+3825609,Real Sociedad,Athletic Club,0.33,0.33,0.33
+3825610,Sporting Gijón,Real Betis,0.33,0.33,0.33
+3825612,Getafe,Levante UD,0.33,0.33,0.33
+3825613,Celta Vigo,Getafe,0.33,0.33,0.33
+3825614,Granada,RC Deportivo La Coruña,0.33,0.33,0.33
+3825617,Sevilla,Barcelona,0.05555555555555555,0.7222222222222222,0.2222222222222222
+3825615,Espanyol,Sporting Gijón,0.33,0.33,0.33
+3825618,Las Palmas,Eibar,0.33,0.33,0.33
+3825616,Málaga,Real Sociedad,0.33,0.33,0.33
+3825620,Rayo Vallecano,Real Betis,0.33,0.33,0.33
+3825621,Atlético Madrid,Real Madrid,0.33,0.33,0.33
+3825622,Athletic Club,Valencia,0.33,0.33,0.33
+3825619,Levante UD,Villarreal,0.33,0.33,0.33
+3825626,Real Betis,Espanyol,0.33,0.33,0.33
+3825624,Eibar,Sevilla,0.33,0.33,0.33
+3825625,Real Madrid,Levante UD,0.33,0.33,0.33
+3825627,Barcelona,Rayo Vallecano,1.0,0.0,0.0
+3825623,Valencia,Málaga,0.33,0.33,0.33
+3825628,Getafe,Las Palmas,0.33,0.33,0.33
+3825629,Villarreal,Celta Vigo,0.33,0.33,0.33
+3825630,RC Deportivo La Coruña,Athletic Club,0.33,0.33,0.33
+3825631,Real Sociedad,Atlético Madrid,0.33,0.33,0.33
+3825632,Sporting Gijón,Granada,0.33,0.33,0.33
+3825633,Rayo Vallecano,Espanyol,0.33,0.33,0.33
+3825874,Sevilla,Getafe,0.33,0.33,0.33
+3825634,Granada,Real Betis,0.33,0.33,0.33
+3825636,Málaga,RC Deportivo La Coruña,0.33,0.33,0.33
+3825635,Celta Vigo,Real Madrid,0.33,0.33,0.33
+3825637,Barcelona,Eibar,1.0,0.0,0.0
+3825640,Levante UD,Real Sociedad,0.33,0.33,0.33
+3825639,Las Palmas,Villarreal,0.33,0.33,0.33
+3825638,Atlético Madrid,Valencia,0.33,0.33,0.33
+3825641,Athletic Club,Sporting Gijón,0.33,0.33,0.33
+3825642,RC Deportivo La Coruña,Atlético Madrid,0.33,0.33,0.33
+3825643,Real Madrid,Las Palmas,0.33,0.33,0.33
+3825644,Real Sociedad,Celta Vigo,0.33,0.33,0.33
+3825645,Getafe,Barcelona,0.125,0.75,0.125
+3825646,Villarreal,Sevilla,0.33,0.33,0.33
+3825647,Valencia,Levante UD,0.33,0.33,0.33
+3825651,Espanyol,Granada,0.33,0.33,0.33
+3825650,Real Betis,Athletic Club,0.33,0.33,0.33
+3825649,Sporting Gijón,Málaga,0.33,0.33,0.33
+3825648,Eibar,Rayo Vallecano,0.33,0.33,0.33
+3825652,Las Palmas,Real Sociedad,0.33,0.33,0.33
+3825653,Eibar,Getafe,0.33,0.33,0.33
+3825654,Celta Vigo,Valencia,0.33,0.33,0.33
+3825655,Rayo Vallecano,Granada,0.33,0.33,0.33
+3825656,Levante UD,RC Deportivo La Coruña,0.33,0.33,0.33
+3825657,Málaga,Real Betis,0.33,0.33,0.33
+3825658,Atlético Madrid,Sporting Gijón,0.33,0.33,0.33
+3825659,Athletic Club,Espanyol,0.33,0.33,0.33
+3825661,Sevilla,Real Madrid,0.33,0.33,0.33
+3825660,Barcelona,Villarreal,0.6923076923076923,0.15384615384615385,0.15384615384615385
+3825888,Valencia,Las Palmas,0.33,0.33,0.33
+3825663,Espanyol,Málaga,0.33,0.33,0.33
+3825662,RC Deportivo La Coruña,Celta Vigo,0.33,0.33,0.33
+3825664,Real Sociedad,Sevilla,0.33,0.33,0.33
+266424,Real Madrid,Barcelona,0.2631578947368421,0.5789473684210527,0.15789473684210525
+3825667,Villarreal,Eibar,0.33,0.33,0.33
+3825665,Granada,Athletic Club,0.33,0.33,0.33
+3825668,Sporting Gijón,Levante UD,0.33,0.33,0.33
+3825666,Real Betis,Atlético Madrid,0.33,0.33,0.33
+3825669,Getafe,Rayo Vallecano,0.33,0.33,0.33
+3825670,Levante UD,Real Betis,0.33,0.33,0.33
+3825672,Málaga,Granada,0.33,0.33,0.33
+3825671,Celta Vigo,Sporting Gijón,0.33,0.33,0.33
+3825673,Las Palmas,RC Deportivo La Coruña,0.33,0.33,0.33
+3825674,Atlético Madrid,Espanyol,0.33,0.33,0.33
+266885,Barcelona,Real Sociedad,0.5454545454545454,0.36363636363636365,0.09090909090909091
+3825676,Getafe,Villarreal,0.33,0.33,0.33
+3825675,Rayo Vallecano,Athletic Club,0.33,0.33,0.33
+3825677,Sevilla,Valencia,0.33,0.33,0.33
+3825678,Eibar,Real Madrid,0.33,0.33,0.33
+3825680,RC Deportivo La Coruña,Sevilla,0.33,0.33,0.33
+267274,Valencia,Barcelona,0.1111111111111111,0.6111111111111112,0.2777777777777778
+3825679,Real Betis,Celta Vigo,0.33,0.33,0.33
+3825682,Granada,Atlético Madrid,0.33,0.33,0.33
+3825681,Real Madrid,Getafe,0.33,0.33,0.33
+3825685,Sporting Gijón,Las Palmas,0.33,0.33,0.33
+3825684,Villarreal,Rayo Vallecano,0.33,0.33,0.33
+3825686,Athletic Club,Málaga,0.33,0.33,0.33
+3825683,Real Sociedad,Eibar,0.33,0.33,0.33
+3825687,Espanyol,Levante UD,0.33,0.33,0.33
+3825688,Getafe,Real Sociedad,0.33,0.33,0.33
+3825691,Levante UD,Granada,0.33,0.33,0.33
+3825692,Sevilla,Sporting Gijón,0.33,0.33,0.33
+3825690,Las Palmas,Real Betis,0.33,0.33,0.33
+266961,Barcelona,RC Deportivo La Coruña,0.8181818181818182,0.0,0.18181818181818182
+3825689,Celta Vigo,Espanyol,0.33,0.33,0.33
+3825693,Atlético Madrid,Athletic Club,0.33,0.33,0.33
+3825694,Eibar,Valencia,0.33,0.33,0.33
+3825695,Villarreal,Real Madrid,0.33,0.33,0.33
+3825696,Rayo Vallecano,Málaga,0.33,0.33,0.33
+3825699,Real Betis,Sevilla,0.33,0.33,0.33
+3825697,Valencia,Getafe,0.33,0.33,0.33
+3825698,RC Deportivo La Coruña,Eibar,0.33,0.33,0.33
+3825891,Espanyol,Las Palmas,0.33,0.33,0.33
+3825702,Real Sociedad,Villarreal,0.33,0.33,0.33
+3825701,Málaga,Atlético Madrid,0.33,0.33,0.33
+3825700,Real Madrid,Rayo Vallecano,0.33,0.33,0.33
+3825703,Athletic Club,Levante UD,0.33,0.33,0.33
+3825704,Granada,Celta Vigo,0.33,0.33,0.33
+3825711,Rayo Vallecano,Atlético Madrid,0.33,0.33,0.33
+3825705,Eibar,Sporting Gijón,0.33,0.33,0.33
+3825707,Las Palmas,Granada,0.33,0.33,0.33
+3825708,Levante UD,Málaga,0.33,0.33,0.33
+3825712,Getafe,RC Deportivo La Coruña,0.33,0.33,0.33
+3825709,Sevilla,Espanyol,0.33,0.33,0.33
+3825710,Real Madrid,Real Sociedad,0.33,0.33,0.33
+267327,Barcelona,Real Betis,0.7272727272727273,0.0,0.2727272727272727
+3825706,Celta Vigo,Athletic Club,0.33,0.33,0.33
+3825713,Villarreal,Valencia,0.33,0.33,0.33
+266670,Espanyol,Barcelona,0.058823529411764705,0.6470588235294118,0.29411764705882354
+3825714,Atlético Madrid,Levante UD,0.33,0.33,0.33
+3825715,Málaga,Celta Vigo,0.33,0.33,0.33
+3825721,RC Deportivo La Coruña,Villarreal,0.33,0.33,0.33
+3825717,Granada,Sevilla,0.33,0.33,0.33
+3825720,Real Betis,Eibar,0.33,0.33,0.33
+3825719,Athletic Club,Las Palmas,0.33,0.33,0.33
+3825716,Rayo Vallecano,Real Sociedad,0.33,0.33,0.33
+3825718,Valencia,Real Madrid,0.33,0.33,0.33
+3825722,Sporting Gijón,Getafe,0.33,0.33,0.33
+266620,Barcelona,Granada,0.8571428571428571,0.14285714285714285,0.0
+3825726,Sevilla,Athletic Club,0.33,0.33,0.33
+3825723,Levante UD,Rayo Vallecano,0.33,0.33,0.33
+3825725,Getafe,Real Betis,0.33,0.33,0.33
+3825724,Real Madrid,RC Deportivo La Coruña,0.33,0.33,0.33
+3825728,Celta Vigo,Atlético Madrid,0.33,0.33,0.33
+3825729,Villarreal,Sporting Gijón,0.33,0.33,0.33
+3825731,Las Palmas,Málaga,0.33,0.33,0.33
+3825727,Eibar,Espanyol,0.33,0.33,0.33
+3825730,Real Sociedad,Valencia,0.33,0.33,0.33
+3825735,Villarreal,Real Betis,0.0,0.0,1.0
+3825732,Celta Vigo,Levante UD,1.0,0.0,0.0
+3825733,Sevilla,Málaga,0.0,0.0,1.0
+3825734,Real Sociedad,RC Deportivo La Coruña,0.0,0.0,1.0
+266149,Barcelona,Athletic Club,0.7647058823529411,0.0,0.23529411764705882
+3825738,Las Palmas,Atlético Madrid,0.0,1.0,0.0
+3825739,Real Madrid,Sporting Gijón,0.0,0.0,1.0
+3825737,Getafe,Espanyol,0.0,1.0,0.0
+3825736,Valencia,Rayo Vallecano,0.0,0.0,1.0
+3825740,Eibar,Granada,1.0,0.0,0.0
+3825741,Sporting Gijón,Real Sociedad,0.0,0.0,1.0
+3825742,Granada,Getafe,1.0,0.0,0.0
+3825744,Espanyol,Villarreal,0.0,1.0,0.0
+3825743,Rayo Vallecano,Celta Vigo,0.0,1.0,0.0
+265894,Málaga,Barcelona,0.07142857142857142,0.8571428571428571,0.07142857142857142
+3825746,Real Betis,Real Madrid,0.0,1.0,0.0
+3825745,RC Deportivo La Coruña,Valencia,0.0,0.0,1.0
+3825748,Atlético Madrid,Sevilla,1.0,0.0,0.0
+3825747,Athletic Club,Eibar,0.0,1.0,0.0
+3825749,Levante UD,Las Palmas,0.0,0.0,1.0
+3825753,Villarreal,Granada,1.0,0.0,0.0
+3825750,Real Sociedad,Real Betis,0.0,1.0,0.0
+3825752,Eibar,Málaga,0.0,0.0,1.0
+267576,Barcelona,Atlético Madrid,0.6842105263157895,0.21052631578947367,0.10526315789473684
+3825751,Getafe,Athletic Club,0.0,1.0,0.0
+3825755,Valencia,Sporting Gijón,1.0,0.0,0.0
+3825754,Las Palmas,Celta Vigo,0.0,0.0,1.0
+3825756,Sevilla,Levante UD,0.0,0.0,1.0
+3825757,Real Madrid,Espanyol,1.0,0.0,0.0
+3825758,RC Deportivo La Coruña,Rayo Vallecano,1.0,0.0,0.0
+3825759,Málaga,Getafe,0.0,1.0,0.0
+3825760,Atlético Madrid,Eibar,1.0,0.0,0.0
+3825763,Rayo Vallecano,Las Palmas,1.0,0.0,0.0
+3825761,Athletic Club,Villarreal,0.0,1.0,0.0
+3825762,Sporting Gijón,RC Deportivo La Coruña,1.0,0.0,0.0
+3825764,Granada,Real Madrid,0.0,1.0,0.0
+3825766,Real Betis,Valencia,0.0,0.0,1.0
+3825765,Celta Vigo,Sevilla,1.0,0.0,0.0
+266160,Levante UD,Barcelona,0.0,0.8461538461538461,0.15384615384615385
+3825767,Espanyol,Real Sociedad,1.0,0.0,0.0
+3825768,Sporting Gijón,Rayo Vallecano,0.0,1.0,0.0
+3825771,RC Deportivo La Coruña,Real Betis,1.0,0.0,0.0
+3825772,Valencia,Espanyol,0.0,1.0,0.0
+3825770,Real Madrid,Athletic Club,1.0,0.0,0.0
+3825769,Villarreal,Málaga,1.0,0.0,0.0
+3825773,Eibar,Levante UD,0.0,0.0,1.0
+3825774,Getafe,Atlético Madrid,0.0,1.0,0.0
+266254,Barcelona,Celta Vigo,0.6666666666666666,0.2222222222222222,0.1111111111111111
+3825776,Sevilla,Las Palmas,0.0,1.0,0.0
+3825775,Real Sociedad,Granada,1.0,0.0,0.0
+266815,Sporting Gijón,Barcelona,0.0,0.8,0.2
+3825777,Levante UD,Getafe,0.0,1.0,0.0
+3825778,Real Betis,Sporting Gijón,1.0,0.0,0.0
+3825780,Espanyol,RC Deportivo La Coruña,0.0,1.0,0.0
+267273,Las Palmas,Barcelona,0.0,1.0,0.0
+3825779,Celta Vigo,Eibar,0.0,0.0,1.0
+3825782,Granada,Valencia,0.0,1.0,0.0
+3825781,Rayo Vallecano,Sevilla,0.0,1.0,0.0
+3825785,Málaga,Real Madrid,0.0,0.0,1.0
+3825784,Atlético Madrid,Villarreal,0.0,1.0,0.0
+3825783,Athletic Club,Real Sociedad,0.0,0.0,1.0
+3825786,Eibar,Las Palmas,1.0,0.0,0.0
+3825789,Real Sociedad,Málaga,0.0,1.0,0.0
+3825787,Real Madrid,Atlético Madrid,0.0,0.0,1.0
+3825790,Sporting Gijón,Espanyol,1.0,0.0,0.0
+3825791,Real Betis,Rayo Vallecano,1.0,0.0,0.0
+3825788,Getafe,Celta Vigo,0.0,0.0,1.0
+265839,Barcelona,Sevilla,0.6842105263157895,0.10526315789473684,0.21052631578947367
+3825794,Villarreal,Levante UD,0.0,1.0,0.0
+3825792,RC Deportivo La Coruña,Granada,0.0,0.0,1.0
+3825793,Valencia,Athletic Club,0.0,1.0,0.0
+3825795,Atlético Madrid,Real Sociedad,1.0,0.0,0.0
+3825796,Las Palmas,Getafe,0.0,1.0,0.0
+3825798,Levante UD,Real Madrid,0.0,1.0,0.0
+3825799,Málaga,Valencia,0.0,1.0,0.0
+3825801,Sevilla,Eibar,0.0,0.0,1.0
+3825800,Celta Vigo,Villarreal,1.0,0.0,0.0
+3825797,Athletic Club,RC Deportivo La Coruña,0.0,0.0,1.0
+3825802,Espanyol,Real Betis,1.0,0.0,0.0
+3825803,Granada,Sporting Gijón,0.0,0.0,1.0
+266653,Rayo Vallecano,Barcelona,0.0,1.0,0.0
+3825805,Villarreal,Las Palmas,0.0,0.0,1.0
+3825867,Getafe,Sevilla,0.0,1.0,0.0
+3825804,RC Deportivo La Coruña,Málaga,0.0,1.0,0.0
+3825806,Real Madrid,Celta Vigo,1.0,0.0,0.0
+3825808,Sporting Gijón,Athletic Club,0.0,1.0,0.0
+3825809,Real Betis,Granada,0.0,0.0,1.0
+266056,Eibar,Barcelona,0.0,1.0,0.0
+3825807,Valencia,Atlético Madrid,0.0,1.0,0.0
+3825810,Real Sociedad,Levante UD,1.0,0.0,0.0
+3825811,Espanyol,Rayo Vallecano,0.0,1.0,0.0
+3825812,Málaga,Sporting Gijón,0.0,1.0,0.0
+266498,Barcelona,Getafe,0.7647058823529411,0.11764705882352941,0.11764705882352941
+3825813,Atlético Madrid,RC Deportivo La Coruña,0.0,0.0,1.0
+3825814,Celta Vigo,Real Sociedad,1.0,0.0,0.0
+3825858,Rayo Vallecano,Eibar,0.0,1.0,0.0
+3825816,Sevilla,Villarreal,0.0,1.0,0.0
+3825844,Athletic Club,Real Betis,1.0,0.0,0.0
+3825879,Las Palmas,Real Madrid,0.0,1.0,0.0
+3825815,Levante UD,Valencia,0.0,1.0,0.0
+3825881,Granada,Espanyol,0.0,0.0,1.0
+3825817,Getafe,Eibar,0.0,1.0,0.0
+3825903,Real Betis,Málaga,1.0,0.0,0.0
+3825907,Sporting Gijón,Atlético Madrid,0.0,1.0,0.0
+3825887,Granada,Rayo Vallecano,0.0,1.0,0.0
+3825818,Real Sociedad,Las Palmas,0.0,1.0,0.0
+3825880,RC Deportivo La Coruña,Levante UD,0.0,0.0,1.0
+266106,Villarreal,Barcelona,0.14285714285714285,0.7142857142857143,0.14285714285714285
+3825819,Valencia,Celta Vigo,1.0,0.0,0.0
+3825820,Real Madrid,Sevilla,0.0,1.0,0.0
+3825821,Espanyol,Athletic Club,0.0,1.0,0.0
+3825885,Rayo Vallecano,Getafe,0.0,0.0,1.0
+267533,Barcelona,Real Madrid,0.6,0.25,0.15
+3825872,Atlético Madrid,Real Betis,1.0,0.0,0.0
+3825822,Las Palmas,Valencia,0.0,0.0,1.0
+3825898,Celta Vigo,RC Deportivo La Coruña,0.0,1.0,0.0
+3825905,Málaga,Espanyol,0.0,1.0,0.0
+3825823,Sevilla,Real Sociedad,0.0,1.0,0.0
+3825824,Eibar,Villarreal,0.0,0.0,1.0
+3825877,Athletic Club,Granada,0.0,1.0,0.0
+3825825,Levante UD,Sporting Gijón,1.0,0.0,0.0
+3825826,Granada,Málaga,0.0,0.0,1.0
+3825828,Espanyol,Atlético Madrid,0.0,1.0,0.0
+3825827,Real Betis,Levante UD,1.0,0.0,0.0
+3825856,Real Madrid,Eibar,1.0,0.0,0.0
+266664,Real Sociedad,Barcelona,0.3333333333333333,0.5833333333333334,0.08333333333333333
+3825830,Villarreal,Getafe,0.0,1.0,0.0
+3825831,Valencia,Sevilla,0.0,1.0,0.0
+3825829,Athletic Club,Rayo Vallecano,1.0,0.0,0.0
+3825832,Sporting Gijón,Celta Vigo,0.0,1.0,0.0
+3825863,RC Deportivo La Coruña,Las Palmas,1.0,0.0,0.0
+3825857,Levante UD,Espanyol,0.0,0.0,1.0
+3825889,Celta Vigo,Real Betis,0.0,0.0,1.0
+3825897,Eibar,Real Sociedad,0.0,1.0,0.0
+3825833,Getafe,Real Madrid,0.0,1.0,0.0
+3825852,Las Palmas,Sporting Gijón,0.0,1.0,0.0
+3825835,Málaga,Athletic Club,0.0,0.0,1.0
+266557,Barcelona,Valencia,0.5789473684210527,0.10526315789473684,0.3157894736842105
+3825836,Rayo Vallecano,Villarreal,0.0,1.0,0.0
+3825834,Atlético Madrid,Granada,1.0,0.0,0.0
+3825906,Sevilla,RC Deportivo La Coruña,0.0,0.0,1.0
+3825837,Real Betis,Las Palmas,0.0,1.0,0.0
+3825862,Espanyol,Celta Vigo,0.0,1.0,0.0
+266310,RC Deportivo La Coruña,Barcelona,0.0,0.75,0.25
+3825840,Valencia,Eibar,0.0,0.0,1.0
+3825893,Real Madrid,Villarreal,0.0,1.0,0.0
+3825839,Sporting Gijón,Sevilla,0.0,1.0,0.0
+3825843,Málaga,Rayo Vallecano,1.0,0.0,0.0
+3825838,Athletic Club,Atlético Madrid,0.0,1.0,0.0
+3825841,Real Sociedad,Getafe,0.0,0.0,1.0
+3825896,Granada,Levante UD,1.0,0.0,0.0
+3825871,Las Palmas,Espanyol,0.0,1.0,0.0
+3825847,Eibar,RC Deportivo La Coruña,0.0,1.0,0.0
+3825886,Rayo Vallecano,Real Madrid,0.0,1.0,0.0
+265944,Barcelona,Sporting Gijón,0.8333333333333334,0.0,0.16666666666666666
+3825890,Atlético Madrid,Málaga,0.0,1.0,0.0
+3825875,Villarreal,Real Sociedad,1.0,0.0,0.0
+3825842,Levante UD,Athletic Club,0.0,1.0,0.0
+3825899,Getafe,Valencia,0.0,0.0,1.0
+3825884,Sevilla,Real Betis,0.0,0.0,1.0
+3825868,Celta Vigo,Granada,1.0,0.0,0.0
+3825854,Sporting Gijón,Eibar,0.0,1.0,0.0
+266986,Real Betis,Barcelona,0.0,0.75,0.25
+3825878,Atlético Madrid,Rayo Vallecano,1.0,0.0,0.0
+3825864,Real Sociedad,Real Madrid,0.0,1.0,0.0
+3825859,Granada,Las Palmas,0.0,1.0,0.0
+3825845,Espanyol,Sevilla,0.0,1.0,0.0
+3825873,Valencia,Villarreal,0.0,1.0,0.0
+3825870,Athletic Club,Celta Vigo,1.0,0.0,0.0
+3825894,RC Deportivo La Coruña,Getafe,0.0,0.0,1.0
+3825855,Málaga,Levante UD,1.0,0.0,0.0
+3825860,Levante UD,Atlético Madrid,0.0,1.0,0.0
+3825861,Real Sociedad,Rayo Vallecano,0.0,0.0,1.0
+3825850,Celta Vigo,Málaga,0.0,1.0,0.0
+3825851,Villarreal,RC Deportivo La Coruña,1.0,0.0,0.0
+3825853,Sevilla,Granada,0.0,1.0,0.0
+3825904,Eibar,Real Betis,1.0,0.0,0.0
+3825901,Real Madrid,Valencia,0.0,0.0,1.0
+3825866,Las Palmas,Athletic Club,0.0,0.0,1.0
+3825865,Getafe,Sporting Gijón,1.0,0.0,0.0
+265958,Barcelona,Espanyol,0.6111111111111112,0.05555555555555555,0.3333333333333333
+3825849,Valencia,Real Sociedad,0.0,1.0,0.0
+267506,Granada,Barcelona,0.125,0.875,0.0
+3825882,Atlético Madrid,Celta Vigo,1.0,0.0,0.0
+3825869,Athletic Club,Sevilla,0.0,1.0,0.0
+3825846,RC Deportivo La Coruña,Real Madrid,0.0,1.0,0.0
+3825908,Espanyol,Eibar,0.0,1.0,0.0
+3825902,Rayo Vallecano,Levante UD,0.0,1.0,0.0
+3825900,Sporting Gijón,Villarreal,0.0,1.0,0.0
+3825876,Real Betis,Getafe,0.0,1.0,0.0
+3825883,Málaga,Las Palmas,0.0,0.0,1.0
+267670,Barcelona,Real Betis,0.7692307692307693,0.0,0.23076923076923078
+266892,Athletic Club,Barcelona,0.0,0.7777777777777778,0.2222222222222222
+266669,Barcelona,Deportivo Alavés,1.0,0.0,0.0
+267212,Leganés,Barcelona,0.33,0.33,0.33
+267220,Barcelona,Atlético Madrid,0.7,0.2,0.1
+267492,Barcelona,RC Deportivo La Coruña,0.7692307692307693,0.0,0.23076923076923078
+266033,Valencia,Barcelona,0.15,0.55,0.3
+267058,Barcelona,Granada,0.8888888888888888,0.1111111111111111,0.0
+266989,Sevilla,Barcelona,0.1,0.7,0.2
+266191,Real Sociedad,Barcelona,0.38461538461538464,0.5384615384615384,0.07692307692307693
+267076,Barcelona,Real Madrid,0.5714285714285714,0.2857142857142857,0.14285714285714285
+266357,Osasuna,Barcelona,0.06666666666666667,0.8,0.13333333333333333
+266528,Barcelona,Espanyol,0.631578947368421,0.05263157894736842,0.3157894736842105
+266477,Villarreal,Barcelona,0.13333333333333333,0.6666666666666666,0.2
+267395,Barcelona,Las Palmas,1.0,0.0,0.0
+266731,Eibar,Barcelona,0.0,1.0,0.0
+266516,Real Betis,Barcelona,0.0,0.7857142857142857,0.21428571428571427
+266874,Barcelona,Athletic Club,0.7894736842105263,0.0,0.21052631578947367
+266273,Deportivo Alavés,Barcelona,0.5,0.5,0.0
+267596,Barcelona,Leganés,1.0,0.0,0.0
+267464,Atlético Madrid,Barcelona,0.19047619047619047,0.6666666666666666,0.14285714285714285
+265952,Barcelona,Sporting Gijón,0.8571428571428571,0.0,0.14285714285714285
+266299,Barcelona,Celta Vigo,0.7,0.2,0.1
+267660,RC Deportivo La Coruña,Barcelona,0.0,0.7857142857142857,0.21428571428571427
+266440,Barcelona,Valencia,0.5714285714285714,0.14285714285714285,0.2857142857142857
+266280,Barcelona,Sevilla,0.7142857142857143,0.09523809523809523,0.19047619047619047
+267590,Málaga,Barcelona,0.06666666666666667,0.8666666666666667,0.06666666666666667
+267373,Barcelona,Real Sociedad,0.5,0.35714285714285715,0.14285714285714285
+267569,Real Madrid,Barcelona,0.2727272727272727,0.5454545454545454,0.18181818181818182
+267101,Barcelona,Osasuna,0.8125,0.0625,0.125
+267077,Espanyol,Barcelona,0.05,0.65,0.3
+266952,Barcelona,Villarreal,0.625,0.125,0.25
+267039,Las Palmas,Barcelona,0.0,1.0,0.0
+267432,Barcelona,Eibar,1.0,0.0,0.0
+9575,Barcelona,Real Betis,0.7333333333333333,0.0,0.26666666666666666
+9581,Deportivo Alavés,Barcelona,0.3333333333333333,0.6666666666666666,0.0
+9592,Barcelona,Espanyol,0.6666666666666666,0.047619047619047616,0.2857142857142857
+9602,Getafe,Barcelona,0.1111111111111111,0.7777777777777778,0.1111111111111111
+9609,Barcelona,Eibar,1.0,0.0,0.0
+9620,Girona,Barcelona,0.33,0.33,0.33
+9636,Barcelona,Las Palmas,1.0,0.0,0.0
+9642,Atlético Madrid,Barcelona,0.18181818181818182,0.6818181818181818,0.13636363636363635
+9650,Barcelona,Málaga,0.8125,0.125,0.0625
+9661,Athletic Club,Barcelona,0.0,0.8,0.2
+9673,Barcelona,Sevilla,0.7272727272727273,0.09090909090909091,0.18181818181818182
+9682,Leganés,Barcelona,0.0,1.0,0.0
+9695,Valencia,Barcelona,0.13636363636363635,0.5909090909090909,0.2727272727272727
+9700,Barcelona,Celta Vigo,0.7272727272727273,0.18181818181818182,0.09090909090909091
+9717,Villarreal,Barcelona,0.11764705882352941,0.6470588235294118,0.23529411764705882
+9726,Barcelona,RC Deportivo La Coruña,0.7333333333333333,0.06666666666666667,0.2
+9736,Real Madrid,Barcelona,0.2608695652173913,0.5652173913043478,0.17391304347826086
+9742,Barcelona,Levante UD,0.8571428571428571,0.0,0.14285714285714285
+9754,Real Sociedad,Barcelona,0.3333333333333333,0.5333333333333333,0.13333333333333333
+9765,Real Betis,Barcelona,0.0,0.75,0.25
+9774,Barcelona,Deportivo Alavés,0.75,0.25,0.0
+9783,Espanyol,Barcelona,0.045454545454545456,0.6818181818181818,0.2727272727272727
+9794,Barcelona,Getafe,0.7894736842105263,0.10526315789473684,0.10526315789473684
+9799,Eibar,Barcelona,0.0,1.0,0.0
+9811,Barcelona,Girona,1.0,0.0,0.0
+9827,Las Palmas,Barcelona,0.0,1.0,0.0
+9837,Barcelona,Atlético Madrid,0.6521739130434783,0.17391304347826086,0.17391304347826086
+9855,Barcelona,Athletic Club,0.8095238095238095,0.0,0.19047619047619047
+9860,Sevilla,Barcelona,0.08695652173913043,0.7391304347826086,0.17391304347826086
+9870,Barcelona,Leganés,1.0,0.0,0.0
+9880,Barcelona,Valencia,0.5652173913043478,0.13043478260869565,0.30434782608695654
+9889,Celta Vigo,Barcelona,0.16666666666666666,0.6666666666666666,0.16666666666666666
+9912,RC Deportivo La Coruña,Barcelona,0.0625,0.75,0.1875
+9924,Barcelona,Real Madrid,0.5833333333333334,0.25,0.16666666666666666
+9928,Barcelona,Villarreal,0.6666666666666666,0.1111111111111111,0.2222222222222222
+9948,Barcelona,Real Sociedad,0.5625,0.3125,0.125
+15946,Barcelona,Deportivo Alavés,0.8,0.2,0.0
+15956,Real Valladolid,Barcelona,0.14285714285714285,0.7142857142857143,0.14285714285714285
+15973,Barcelona,Huesca,0.33,0.33,0.33
+15978,Real Sociedad,Barcelona,0.29411764705882354,0.5882352941176471,0.11764705882352941
+15986,Barcelona,Girona,1.0,0.0,0.0
+15998,Leganés,Barcelona,0.0,1.0,0.0
+16010,Barcelona,Athletic Club,0.8181818181818182,0.0,0.18181818181818182
+16023,Valencia,Barcelona,0.125,0.5833333333333334,0.2916666666666667
+16029,Barcelona,Sevilla,0.7083333333333334,0.08333333333333333,0.20833333333333334
+16056,Barcelona,Real Betis,0.7647058823529411,0.0,0.23529411764705882
+16073,Atlético Madrid,Barcelona,0.16666666666666666,0.6666666666666666,0.16666666666666666
+16079,Barcelona,Villarreal,0.6842105263157895,0.10526315789473684,0.21052631578947367
+16086,Espanyol,Barcelona,0.043478260869565216,0.6521739130434783,0.30434782608695654
+16095,Levante UD,Barcelona,0.0,0.8666666666666667,0.13333333333333333
+16109,Barcelona,Celta Vigo,0.6153846153846154,0.15384615384615385,0.23076923076923078
+16120,Getafe,Barcelona,0.1,0.75,0.15
+16131,Barcelona,Eibar,1.0,0.0,0.0
+16136,Barcelona,Leganés,0.8,0.2,0.0
+16149,Girona,Barcelona,0.0,0.6666666666666666,0.3333333333333333
+16157,Barcelona,Valencia,0.56,0.12,0.32
+16173,Athletic Club,Barcelona,0.0,0.782608695652174,0.21739130434782608
+16182,Barcelona,Real Valladolid,0.75,0.125,0.125
+16190,Sevilla,Barcelona,0.08,0.72,0.2
+16196,Real Madrid,Barcelona,0.24,0.56,0.2
+16205,Barcelona,Rayo Vallecano,1.0,0.0,0.0
+16215,Real Betis,Barcelona,0.05555555555555555,0.7222222222222222,0.2222222222222222
+16231,Barcelona,Espanyol,0.6666666666666666,0.041666666666666664,0.2916666666666667
+16240,Villarreal,Barcelona,0.1,0.7,0.2
+16248,Barcelona,Atlético Madrid,0.64,0.16,0.2
+16265,Barcelona,Real Sociedad,0.6111111111111112,0.2777777777777778,0.1111111111111111
+16275,Deportivo Alavés,Barcelona,0.16666666666666666,0.8333333333333334,0.0
+16289,Barcelona,Levante UD,0.875,0.0,0.125
+16306,Barcelona,Getafe,0.7619047619047619,0.09523809523809523,0.14285714285714285
+16317,Eibar,Barcelona,0.0,1.0,0.0
+303666,Granada,Barcelona,0.1,0.9,0.0
+303430,Barcelona,Villarreal,0.6666666666666666,0.09523809523809523,0.23809523809523808
+303473,Barcelona,Sevilla,0.7307692307692307,0.07692307692307693,0.19230769230769232
+303700,Eibar,Barcelona,0.0,0.9,0.1
+303600,Barcelona,Real Valladolid,0.7777777777777778,0.1111111111111111,0.1111111111111111
+303504,Levante UD,Barcelona,0.0,0.8823529411764706,0.11764705882352941
+303487,Barcelona,Celta Vigo,0.6428571428571429,0.14285714285714285,0.21428571428571427
+303715,Leganés,Barcelona,0.16666666666666666,0.8333333333333334,0.0
+303524,Atlético Madrid,Barcelona,0.15384615384615385,0.6538461538461539,0.19230769230769232
+303451,Barcelona,Mallorca,0.8,0.1,0.1
+303664,Real Sociedad,Barcelona,0.2631578947368421,0.631578947368421,0.10526315789473684
+303596,Barcelona,Real Madrid,0.5769230769230769,0.23076923076923078,0.19230769230769232
+303517,Barcelona,Deportivo Alavés,0.8571428571428571,0.14285714285714285,0.0
+303652,Espanyol,Barcelona,0.04,0.68,0.28
+303610,Barcelona,Granada,0.8181818181818182,0.18181818181818182,0.0
+303400,Valencia,Barcelona,0.11538461538461539,0.5384615384615384,0.34615384615384615
+303682,Barcelona,Levante UD,0.8333333333333334,0.05555555555555555,0.1111111111111111
+303707,Real Betis,Barcelona,0.05263157894736842,0.7368421052631579,0.21052631578947367
+303377,Barcelona,Getafe,0.7727272727272727,0.09090909090909091,0.13636363636363635
+303731,Barcelona,Eibar,0.9090909090909091,0.0,0.09090909090909091
+303470,Real Madrid,Barcelona,0.2222222222222222,0.5555555555555556,0.2222222222222222
+303479,Barcelona,Real Sociedad,0.6,0.25,0.15
+303548,Mallorca,Barcelona,0.09090909090909091,0.8181818181818182,0.09090909090909091
+303532,Barcelona,Leganés,0.8571428571428571,0.14285714285714285,0.0
+303674,Sevilla,Barcelona,0.07407407407407407,0.7407407407407407,0.18518518518518517
+303493,Barcelona,Athletic Club,0.75,0.0,0.25
+303516,Celta Vigo,Barcelona,0.13333333333333333,0.6666666666666666,0.2
+303696,Barcelona,Atlético Madrid,0.6666666666666666,0.14814814814814814,0.18518518518518517
+303725,Villarreal,Barcelona,0.09090909090909091,0.6818181818181818,0.22727272727272727
+303615,Barcelona,Espanyol,0.6538461538461539,0.038461538461538464,0.3076923076923077
+303680,Real Valladolid,Barcelona,0.1,0.8,0.1
+303634,Barcelona,Osasuna,0.8235294117647058,0.058823529411764705,0.11764705882352941
+303421,Deportivo Alavés,Barcelona,0.125,0.875,0.0
+3773593,Barcelona,Villarreal,0.6956521739130435,0.08695652173913043,0.21739130434782608
+3773466,Celta Vigo,Barcelona,0.125,0.625,0.25
+3773672,Barcelona,Sevilla,0.7142857142857143,0.07142857142857142,0.21428571428571427
+3773587,Getafe,Barcelona,0.08695652173913043,0.782608695652174,0.13043478260869565
+3773585,Barcelona,Real Madrid,0.5357142857142857,0.25,0.21428571428571427
+3773386,Deportivo Alavés,Barcelona,0.1111111111111111,0.8888888888888888,0.0
+3773477,Barcelona,Real Betis,0.75,0.05,0.2
+3773656,Atlético Madrid,Barcelona,0.14285714285714285,0.6428571428571429,0.21428571428571427
+3773547,Barcelona,Osasuna,0.7777777777777778,0.1111111111111111,0.1111111111111111
+3773428,Cádiz,Barcelona,0.0,1.0,0.0
+3773660,Barcelona,Levante UD,0.8421052631578947,0.05263157894736842,0.10526315789473684
+3773523,Barcelona,Real Sociedad,0.6190476190476191,0.23809523809523808,0.14285714285714285
+3773377,Barcelona,Valencia,0.5185185185185185,0.14814814814814814,0.3333333333333333
+3773571,Real Valladolid,Barcelona,0.09090909090909091,0.8181818181818182,0.09090909090909091
+3773552,Huesca,Barcelona,0.0,1.0,0.0
+3764661,Athletic Club,Barcelona,0.0,0.76,0.24
+3773565,Granada,Barcelona,0.16666666666666666,0.8333333333333334,0.0
+3773403,Barcelona,Athletic Club,0.7692307692307693,0.0,0.23076923076923078
+3773631,Real Betis,Barcelona,0.047619047619047616,0.7619047619047619,0.19047619047619047
+3773526,Barcelona,Deportivo Alavés,0.8,0.1,0.1
+3773415,Barcelona,Cádiz,0.5,0.5,0.0
+3764440,Barcelona,Elche,0.6666666666666666,0.0,0.3333333333333333
+3773625,Sevilla,Barcelona,0.06896551724137931,0.6896551724137931,0.2413793103448276
+3773665,Osasuna,Barcelona,0.10526315789473684,0.7894736842105263,0.10526315789473684
+3773369,Barcelona,Huesca,1.0,0.0,0.0
+3773597,Real Sociedad,Barcelona,0.22727272727272727,0.6363636363636364,0.13636363636363635
+3773474,Barcelona,Real Valladolid,0.8333333333333334,0.08333333333333333,0.08333333333333333
+3773497,Real Madrid,Barcelona,0.27586206896551724,0.5172413793103449,0.20689655172413793
+3773661,Barcelona,Getafe,0.75,0.125,0.125
+3773689,Villarreal,Barcelona,0.08333333333333333,0.7083333333333334,0.20833333333333334
+3773586,Barcelona,Granada,0.8461538461538461,0.15384615384615385,0.0
+3773695,Valencia,Barcelona,0.14285714285714285,0.5,0.35714285714285715
+3773372,Barcelona,Atlético Madrid,0.6206896551724138,0.1724137931034483,0.20689655172413793
+3773387,Levante UD,Barcelona,0.05,0.85,0.1
+3773457,Barcelona,Celta Vigo,0.6470588235294118,0.11764705882352941,0.23529411764705882
